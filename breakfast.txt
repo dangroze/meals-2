@@ -8,3 +8,6 @@ Zacusca
 
 Bob’s breakfast for tomorrow:
 Porridge
+
+Bob’s drinks for today:
+Water, wine
